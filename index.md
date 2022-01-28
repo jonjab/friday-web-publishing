@@ -3,6 +3,8 @@ title: "Our Collaboratory Homepage"
 author: "jonjab"
 ---
 
+{% include navigation.html %}
+
 # Building websites with GitHub
 
 ## Description
