@@ -1,3 +1,8 @@
+---
+title: "Our Collaboratory Homepage"
+author: "jonjab"
+---
+
 # Building websites with GitHub
 
 ## Description
@@ -5,6 +10,7 @@
 
 [About this website](about.md)
 
-This page was rendered at {{ site.time }}
+This page was rendered at {{ site.time }}.
+Author: {{ page.author }}
 
 Have any questions? [Please contact us via email](mailto:{{ site.email }})
