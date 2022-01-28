@@ -1,6 +1,7 @@
 ---
 title: "Our Collaboratory Homepage"
 author: "jonjab"
+layout: default
 ---
 
 {% include navigation.html %}
