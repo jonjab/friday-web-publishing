@@ -10,7 +10,7 @@ Plain text may contain *italics* **or bold** text.
 
 ## Number 2 heading. Ep. 2 Challenge
 A link to [UCSB Carpentry Home](https://ucsbcarpentry.github.io/). 
-Markdown is cool, but ~~~sometimes we change our minds.~~~  
+Markdown is cool, but ~~sometimes we change our minds.~~  
 
 ### We can make an ordered list
 1. First
