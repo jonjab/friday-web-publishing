@@ -1,4 +1,7 @@
-{% include navigation.html %}
+---
+layout: default
+---
+
 # About this site
 This is my about page for my website.
 
@@ -14,10 +17,4 @@ You can cite the project as:
 
 > *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
 
-## Contact us
-
-- Email: [{{ site.email }}](mailto:{{ site.email }})
-- Thanks!
-
-[Go home](index.md)
 {% include footer.html %}
